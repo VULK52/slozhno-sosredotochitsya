@@ -1,1 +1,1 @@
-https://github.com/VULK52/slozhno-sosredotochitsya
+https://github.com/VULK52/slozhno-sosredotochitsya.git
